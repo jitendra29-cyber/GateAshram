@@ -1,0 +1,47 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Gugi&display=swap'); */
+/* @import url('https://fonts.googleapis.com/css2?family=Gugi&display=swap'); */
+
+.style {
+
+ /* padding: 0px 10px 0px 10px; */
+ font-family: 'Gugi', cursive;
+ padding-top: 0px;
+ margin-top: 0px;
+}
+
+.style  h2 {
+    /* color: #ffffff; */
+    background-color: #343a40;
+    padding: 10px;
+    margin-top: 0px;
+    border-bottom: 1px solid black;
+    margin-bottom: 0px;
+    
+}
+
+.style .header  a {
+    color: honeydew;
+    transition-duration: .8s ;
+}
+
+.style a:hover {
+    color: rgb(26, 25, 27);
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.sidenav {
+    height: 1014px;
+    width: 300px;
+    background-color: #f1f1f1;
+    /* border-right: 1px solid black; */
+    /* margin-top: 46.909px; */
+    /* position: fixed; */
+    /* overflow: auto; */
+    padding-top: 46.909px;
+    margin-right: 0px;
+
+}
